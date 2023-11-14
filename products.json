@@ -1,0 +1,51 @@
+[
+    {
+        "id": 1,
+        "name":" Audio-technica ATH-M50x",
+        "price": 199.99,
+        "image": "image/1.png"
+    },
+    {
+        "id": 2,
+        "name":" Sony WH-1000XM4",
+        "price": 349.99,
+        "image": "image/2.png"
+    },
+    {
+        "id": 3,
+        "name":" Sennheiser HD 660 S - Limited Edition",
+        "price": 499.99,
+        "image": "image/3.png"
+    },
+    {
+        "id": 4,
+        "name":" Beyerdynamic DT 990 Pro",
+        "price": 169.99,
+        "image": "image/4.png"
+    },
+    {
+        "id": 5,
+        "name":" AKG K701-Anime Art Edition",
+        "price": 300,
+        "image": "image/5.png"
+    },
+    {
+        "id": 6,
+        "name":" HyperX CLoud Alpha",
+        "price": 249.99,
+        "image": "image/6.png"
+    },
+    {
+        "id": 7,
+        "name":" Razer Kraken - Anime Collection",
+        "price": 200,
+        "image": "image/7.png"
+    },
+    {
+        "id": 8,
+        "name":" JBL Quantum 600 - Freak Edition",
+        "price": 200,
+        "image": "image/8.png"
+    }
+
+]
